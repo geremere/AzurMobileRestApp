@@ -1,0 +1,10 @@
+C:\Users\радмир\source\repos\ересдачаэкр172\ересдачаэкр172\bin\Debug\ересдачаэкр172.exe.config
+C:\Users\радмир\source\repos\ересдачаэкр172\ересдачаэкр172\bin\Debug\ересдачаэкр172.exe
+C:\Users\радмир\source\repos\ересдачаэкр172\ересдачаэкр172\bin\Debug\ересдачаэкр172.pdb
+C:\Users\радмир\source\repos\ересдачаэкр172\ересдачаэкр172\bin\Debug\Ralli.dll
+C:\Users\радмир\source\repos\ересдачаэкр172\ересдачаэкр172\bin\Debug\Ralli.pdb
+C:\Users\радмир\source\repos\ересдачаэкр172\ересдачаэкр172\obj\Debug\ересдачаэкр172.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\ересдачаэкр172\ересдачаэкр172\obj\Debug\ересдачаэкр172.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\ересдачаэкр172\ересдачаэкр172\obj\Debug\ересдачаэкр172.csproj.CopyComplete
+C:\Users\радмир\source\repos\ересдачаэкр172\ересдачаэкр172\obj\Debug\ересдачаэкр172.exe
+C:\Users\радмир\source\repos\ересдачаэкр172\ересдачаэкр172\obj\Debug\ересдачаэкр172.pdb

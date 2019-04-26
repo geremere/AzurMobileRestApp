@@ -1,0 +1,7 @@
+C:\Users\радмир\source\repos\ВПИ4\testvbreak\bin\Debug\testvbreak.exe.config
+C:\Users\радмир\source\repos\ВПИ4\testvbreak\bin\Debug\testvbreak.exe
+C:\Users\радмир\source\repos\ВПИ4\testvbreak\bin\Debug\testvbreak.pdb
+C:\Users\радмир\source\repos\ВПИ4\testvbreak\obj\Debug\testvbreak.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\ВПИ4\testvbreak\obj\Debug\testvbreak.exe
+C:\Users\радмир\source\repos\ВПИ4\testvbreak\obj\Debug\testvbreak.pdb
+C:\Users\радмир\source\repos\ВПИ4\testvbreak\obj\Debug\testvbreak.csprojAssemblyReference.cache

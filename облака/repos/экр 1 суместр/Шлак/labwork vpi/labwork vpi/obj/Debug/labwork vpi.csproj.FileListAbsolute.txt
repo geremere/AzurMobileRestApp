@@ -1,0 +1,7 @@
+C:\Users\радмир\source\repos\labwork vpi\labwork vpi\bin\Debug\labwork vpi.exe.config
+C:\Users\радмир\source\repos\labwork vpi\labwork vpi\bin\Debug\labwork vpi.exe
+C:\Users\радмир\source\repos\labwork vpi\labwork vpi\bin\Debug\labwork vpi.pdb
+C:\Users\радмир\source\repos\labwork vpi\labwork vpi\obj\Debug\labwork vpi.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\labwork vpi\labwork vpi\obj\Debug\labwork vpi.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\labwork vpi\labwork vpi\obj\Debug\labwork vpi.exe
+C:\Users\радмир\source\repos\labwork vpi\labwork vpi\obj\Debug\labwork vpi.pdb

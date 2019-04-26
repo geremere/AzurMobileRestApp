@@ -1,0 +1,10 @@
+C:\Users\радмир\source\repos\экр175враинат4\экр175враинат4\bin\Debug\экр175враинат4.exe.config
+C:\Users\радмир\source\repos\экр175враинат4\экр175враинат4\bin\Debug\экр175враинат4.exe
+C:\Users\радмир\source\repos\экр175враинат4\экр175враинат4\bin\Debug\экр175враинат4.pdb
+C:\Users\радмир\source\repos\экр175враинат4\экр175враинат4\bin\Debug\ClassLibrary1.dll
+C:\Users\радмир\source\repos\экр175враинат4\экр175враинат4\bin\Debug\ClassLibrary1.pdb
+C:\Users\радмир\source\repos\экр175враинат4\экр175враинат4\obj\Debug\экр175враинат4.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\экр175враинат4\экр175враинат4\obj\Debug\экр175враинат4.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\экр175враинат4\экр175враинат4\obj\Debug\экр175враинат4.csproj.CopyComplete
+C:\Users\радмир\source\repos\экр175враинат4\экр175враинат4\obj\Debug\экр175враинат4.exe
+C:\Users\радмир\source\repos\экр175враинат4\экр175враинат4\obj\Debug\экр175враинат4.pdb

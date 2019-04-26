@@ -1,0 +1,7 @@
+C:\Users\радмир\source\repos\Финтех\Финтех\bin\Debug\Финтех.exe.config
+C:\Users\радмир\source\repos\Финтех\Финтех\bin\Debug\Финтех.exe
+C:\Users\радмир\source\repos\Финтех\Финтех\bin\Debug\Финтех.pdb
+C:\Users\радмир\source\repos\Финтех\Финтех\obj\Debug\Финтех.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\Финтех\Финтех\obj\Debug\Финтех.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\Финтех\Финтех\obj\Debug\Финтех.exe
+C:\Users\радмир\source\repos\Финтех\Финтех\obj\Debug\Финтех.pdb

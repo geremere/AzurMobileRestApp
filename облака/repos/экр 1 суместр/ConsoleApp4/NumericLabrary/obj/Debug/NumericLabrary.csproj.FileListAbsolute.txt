@@ -1,0 +1,6 @@
+C:\Users\радмир\source\repos\ConsoleApp4\NumericLabrary\bin\Debug\NumericLabrary.dll
+C:\Users\радмир\source\repos\ConsoleApp4\NumericLabrary\bin\Debug\NumericLabrary.pdb
+C:\Users\радмир\source\repos\ConsoleApp4\NumericLabrary\obj\Debug\NumericLabrary.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\ConsoleApp4\NumericLabrary\obj\Debug\NumericLabrary.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\ConsoleApp4\NumericLabrary\obj\Debug\NumericLabrary.dll
+C:\Users\радмир\source\repos\ConsoleApp4\NumericLabrary\obj\Debug\NumericLabrary.pdb

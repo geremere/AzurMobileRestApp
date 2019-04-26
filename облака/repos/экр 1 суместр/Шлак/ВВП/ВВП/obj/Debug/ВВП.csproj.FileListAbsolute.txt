@@ -1,0 +1,7 @@
+C:\Users\радмир\source\repos\ВВП\ВВП\bin\Debug\ВВП.exe.config
+C:\Users\радмир\source\repos\ВВП\ВВП\bin\Debug\ВВП.exe
+C:\Users\радмир\source\repos\ВВП\ВВП\bin\Debug\ВВП.pdb
+C:\Users\радмир\source\repos\ВВП\ВВП\obj\Debug\ВВП.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\ВВП\ВВП\obj\Debug\ВВП.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\ВВП\ВВП\obj\Debug\ВВП.exe
+C:\Users\радмир\source\repos\ВВП\ВВП\obj\Debug\ВВП.pdb

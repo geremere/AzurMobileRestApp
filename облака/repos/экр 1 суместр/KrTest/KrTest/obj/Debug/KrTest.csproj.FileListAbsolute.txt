@@ -1,0 +1,10 @@
+C:\Users\радмир\source\repos\KrTest\KrTest\bin\Debug\KrTest.exe.config
+C:\Users\радмир\source\repos\KrTest\KrTest\bin\Debug\KrTest.exe
+C:\Users\радмир\source\repos\KrTest\KrTest\bin\Debug\KrTest.pdb
+C:\Users\радмир\source\repos\KrTest\KrTest\bin\Debug\Pair.dll
+C:\Users\радмир\source\repos\KrTest\KrTest\bin\Debug\Pair.pdb
+C:\Users\радмир\source\repos\KrTest\KrTest\obj\Debug\KrTest.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\KrTest\KrTest\obj\Debug\KrTest.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\KrTest\KrTest\obj\Debug\KrTest.csproj.CopyComplete
+C:\Users\радмир\source\repos\KrTest\KrTest\obj\Debug\KrTest.exe
+C:\Users\радмир\source\repos\KrTest\KrTest\obj\Debug\KrTest.pdb

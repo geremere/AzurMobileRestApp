@@ -1,0 +1,13 @@
+C:\Users\радмир\source\repos\экр1варинат4\экр1варинат4\obj\Debug\экр1варинат4.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\экр1варинат4\экр1варинат4\obj\Debug\экр1варинат4.Form1.resources
+C:\Users\радмир\source\repos\экр1варинат4\экр1варинат4\obj\Debug\экр1варинат4.Properties.Resources.resources
+C:\Users\радмир\source\repos\экр1варинат4\экр1варинат4\obj\Debug\экр1варинат4.csproj.GenerateResource.cache
+C:\Users\радмир\source\repos\экр1варинат4\экр1варинат4\obj\Debug\экр1варинат4.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\экр1варинат4\экр1варинат4\bin\Debug\экр1варинат4.exe.config
+C:\Users\радмир\source\repos\экр1варинат4\экр1варинат4\bin\Debug\экр1варинат4.exe
+C:\Users\радмир\source\repos\экр1варинат4\экр1варинат4\bin\Debug\экр1варинат4.pdb
+C:\Users\радмир\source\repos\экр1варинат4\экр1варинат4\bin\Debug\TransportLib.dll
+C:\Users\радмир\source\repos\экр1варинат4\экр1варинат4\bin\Debug\TransportLib.pdb
+C:\Users\радмир\source\repos\экр1варинат4\экр1варинат4\obj\Debug\экр1варинат4.csproj.CopyComplete
+C:\Users\радмир\source\repos\экр1варинат4\экр1варинат4\obj\Debug\экр1варинат4.exe
+C:\Users\радмир\source\repos\экр1варинат4\экр1варинат4\obj\Debug\экр1варинат4.pdb

@@ -1,0 +1,7 @@
+C:\Users\радмир\source\repos\впи2\впи2\bin\Debug\впи2.exe.config
+C:\Users\радмир\source\repos\впи2\впи2\bin\Debug\впи2.exe
+C:\Users\радмир\source\repos\впи2\впи2\bin\Debug\впи2.pdb
+C:\Users\радмир\source\repos\впи2\впи2\obj\Debug\впи2.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\впи2\впи2\obj\Debug\впи2.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\впи2\впи2\obj\Debug\впи2.exe
+C:\Users\радмир\source\repos\впи2\впи2\obj\Debug\впи2.pdb

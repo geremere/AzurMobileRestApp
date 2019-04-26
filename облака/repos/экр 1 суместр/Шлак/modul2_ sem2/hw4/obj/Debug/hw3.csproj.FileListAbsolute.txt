@@ -1,0 +1,7 @@
+C:\Users\радмир\source\repos\modul2_ sem2\hw4\obj\Debug\hw3.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\modul2_ sem2\hw4\obj\Debug\hw3.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\modul2_ sem2\hw4\bin\Debug\hw4.exe.config
+C:\Users\радмир\source\repos\modul2_ sem2\hw4\bin\Debug\hw4.exe
+C:\Users\радмир\source\repos\modul2_ sem2\hw4\bin\Debug\hw4.pdb
+C:\Users\радмир\source\repos\modul2_ sem2\hw4\obj\Debug\hw4.exe
+C:\Users\радмир\source\repos\modul2_ sem2\hw4\obj\Debug\hw4.pdb

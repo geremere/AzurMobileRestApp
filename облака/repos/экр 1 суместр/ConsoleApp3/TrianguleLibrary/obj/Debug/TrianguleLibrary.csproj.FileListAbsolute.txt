@@ -1,0 +1,6 @@
+C:\Users\радмир\source\repos\ConsoleApp3\TrianguleLibrary\bin\Debug\TrianguleLibrary.dll
+C:\Users\радмир\source\repos\ConsoleApp3\TrianguleLibrary\bin\Debug\TrianguleLibrary.pdb
+C:\Users\радмир\source\repos\ConsoleApp3\TrianguleLibrary\obj\Debug\TrianguleLibrary.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\ConsoleApp3\TrianguleLibrary\obj\Debug\TrianguleLibrary.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\ConsoleApp3\TrianguleLibrary\obj\Debug\TrianguleLibrary.dll
+C:\Users\радмир\source\repos\ConsoleApp3\TrianguleLibrary\obj\Debug\TrianguleLibrary.pdb

@@ -1,0 +1,6 @@
+C:\Users\радмир\source\repos\семинар4\Figures\bin\Debug\Figures.dll
+C:\Users\радмир\source\repos\семинар4\Figures\bin\Debug\Figures.pdb
+C:\Users\радмир\source\repos\семинар4\Figures\obj\Debug\Figures.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\семинар4\Figures\obj\Debug\Figures.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\семинар4\Figures\obj\Debug\Figures.dll
+C:\Users\радмир\source\repos\семинар4\Figures\obj\Debug\Figures.pdb

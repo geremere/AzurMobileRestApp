@@ -1,0 +1,7 @@
+C:\Users\радмир\source\repos\модуль2_семинар 1\задача8\bin\Debug\задача8.exe.config
+C:\Users\радмир\source\repos\модуль2_семинар 1\задача8\bin\Debug\задача8.exe
+C:\Users\радмир\source\repos\модуль2_семинар 1\задача8\bin\Debug\задача8.pdb
+C:\Users\радмир\source\repos\модуль2_семинар 1\задача8\obj\Debug\задача8.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\модуль2_семинар 1\задача8\obj\Debug\задача8.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\модуль2_семинар 1\задача8\obj\Debug\задача8.exe
+C:\Users\радмир\source\repos\модуль2_семинар 1\задача8\obj\Debug\задача8.pdb

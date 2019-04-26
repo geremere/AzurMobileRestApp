@@ -1,0 +1,7 @@
+C:\Users\радмир\source\repos\shjdfg\shjdfg\bin\Debug\shjdfg.exe.config
+C:\Users\радмир\source\repos\shjdfg\shjdfg\bin\Debug\shjdfg.exe
+C:\Users\радмир\source\repos\shjdfg\shjdfg\bin\Debug\shjdfg.pdb
+C:\Users\радмир\source\repos\shjdfg\shjdfg\obj\Debug\shjdfg.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\shjdfg\shjdfg\obj\Debug\shjdfg.exe
+C:\Users\радмир\source\repos\shjdfg\shjdfg\obj\Debug\shjdfg.pdb
+C:\Users\радмир\source\repos\shjdfg\shjdfg\obj\Debug\shjdfg.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\радмир\source\repos\4.5\4.5\bin\Debug\4.5.exe.config
+C:\Users\радмир\source\repos\4.5\4.5\bin\Debug\4.5.exe
+C:\Users\радмир\source\repos\4.5\4.5\bin\Debug\4.5.pdb
+C:\Users\радмир\source\repos\4.5\4.5\obj\Debug\4.5.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\4.5\4.5\obj\Debug\4.5.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\4.5\4.5\obj\Debug\4.5.exe
+C:\Users\радмир\source\repos\4.5\4.5\obj\Debug\4.5.pdb

@@ -1,0 +1,7 @@
+C:\Users\радмир\source\repos\sem.samoltoual.RIMБПИ183\sem.samoltoual.RIMБПИ183\obj\Debug\sem.samoltoual.RIMБПИ183.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\sem.samoltoual.RIMБПИ183\sem.samoltoual.RIMБПИ183\obj\Debug\sem.samoltoual.RIMБПИ183.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\sem.samoltoual.RIMБПИ183\sem.samoltoual.RIMБПИ183\bin\Debug\sem.samoltoual.RIMБПИ183.exe.config
+C:\Users\радмир\source\repos\sem.samoltoual.RIMБПИ183\sem.samoltoual.RIMБПИ183\bin\Debug\sem.samoltoual.RIMБПИ183.exe
+C:\Users\радмир\source\repos\sem.samoltoual.RIMБПИ183\sem.samoltoual.RIMБПИ183\bin\Debug\sem.samoltoual.RIMБПИ183.pdb
+C:\Users\радмир\source\repos\sem.samoltoual.RIMБПИ183\sem.samoltoual.RIMБПИ183\obj\Debug\sem.samoltoual.RIMБПИ183.exe
+C:\Users\радмир\source\repos\sem.samoltoual.RIMБПИ183\sem.samoltoual.RIMБПИ183\obj\Debug\sem.samoltoual.RIMБПИ183.pdb

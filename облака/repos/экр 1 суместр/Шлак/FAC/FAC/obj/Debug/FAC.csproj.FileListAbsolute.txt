@@ -1,0 +1,7 @@
+C:\Users\радмир\source\repos\FAC\FAC\bin\Debug\FAC.exe.config
+C:\Users\радмир\source\repos\FAC\FAC\bin\Debug\FAC.exe
+C:\Users\радмир\source\repos\FAC\FAC\bin\Debug\FAC.pdb
+C:\Users\радмир\source\repos\FAC\FAC\obj\Debug\FAC.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\FAC\FAC\obj\Debug\FAC.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\FAC\FAC\obj\Debug\FAC.exe
+C:\Users\радмир\source\repos\FAC\FAC\obj\Debug\FAC.pdb

@@ -1,0 +1,7 @@
+C:\Users\радмир\source\repos\модуль2_ семинар2\модуль2_ семинар2\bin\Debug\модуль2_ семинар2.exe.config
+C:\Users\радмир\source\repos\модуль2_ семинар2\модуль2_ семинар2\bin\Debug\модуль2_ семинар2.exe
+C:\Users\радмир\source\repos\модуль2_ семинар2\модуль2_ семинар2\bin\Debug\модуль2_ семинар2.pdb
+C:\Users\радмир\source\repos\модуль2_ семинар2\модуль2_ семинар2\obj\Debug\модуль2_ семинар2.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\модуль2_ семинар2\модуль2_ семинар2\obj\Debug\модуль2_ семинар2.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\модуль2_ семинар2\модуль2_ семинар2\obj\Debug\модуль2_ семинар2.exe
+C:\Users\радмир\source\repos\модуль2_ семинар2\модуль2_ семинар2\obj\Debug\модуль2_ семинар2.pdb

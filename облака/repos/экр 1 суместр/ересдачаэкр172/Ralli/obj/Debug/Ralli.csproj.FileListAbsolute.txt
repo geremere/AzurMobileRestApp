@@ -1,0 +1,6 @@
+C:\Users\радмир\source\repos\ересдачаэкр172\Ralli\bin\Debug\Ralli.dll
+C:\Users\радмир\source\repos\ересдачаэкр172\Ralli\bin\Debug\Ralli.pdb
+C:\Users\радмир\source\repos\ересдачаэкр172\Ralli\obj\Debug\Ralli.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\ересдачаэкр172\Ralli\obj\Debug\Ralli.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\ересдачаэкр172\Ralli\obj\Debug\Ralli.dll
+C:\Users\радмир\source\repos\ересдачаэкр172\Ralli\obj\Debug\Ralli.pdb

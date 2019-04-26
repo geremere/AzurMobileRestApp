@@ -1,0 +1,9 @@
+C:\Users\радмир\source\repos\seminar3\seminar3\bin\Debug\seminar3.exe.config
+C:\Users\радмир\source\repos\seminar3\seminar3\bin\Debug\seminar3.exe
+C:\Users\радмир\source\repos\seminar3\seminar3\bin\Debug\seminar3.pdb
+C:\Users\радмир\source\repos\seminar3\seminar3\obj\Debug\seminar3.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\seminar3\seminar3\obj\Debug\seminar3.Properties.Resources.resources
+C:\Users\радмир\source\repos\seminar3\seminar3\obj\Debug\seminar3.csproj.GenerateResource.cache
+C:\Users\радмир\source\repos\seminar3\seminar3\obj\Debug\seminar3.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\seminar3\seminar3\obj\Debug\seminar3.exe
+C:\Users\радмир\source\repos\seminar3\seminar3\obj\Debug\seminar3.pdb

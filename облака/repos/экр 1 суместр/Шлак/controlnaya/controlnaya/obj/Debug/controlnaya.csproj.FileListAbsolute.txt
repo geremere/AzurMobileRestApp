@@ -1,0 +1,7 @@
+C:\Users\радмир\source\repos\controlnaya\controlnaya\bin\Debug\controlnaya.exe.config
+C:\Users\радмир\source\repos\controlnaya\controlnaya\bin\Debug\controlnaya.exe
+C:\Users\радмир\source\repos\controlnaya\controlnaya\bin\Debug\controlnaya.pdb
+C:\Users\радмир\source\repos\controlnaya\controlnaya\obj\Debug\controlnaya.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\controlnaya\controlnaya\obj\Debug\controlnaya.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\controlnaya\controlnaya\obj\Debug\controlnaya.exe
+C:\Users\радмир\source\repos\controlnaya\controlnaya\obj\Debug\controlnaya.pdb

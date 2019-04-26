@@ -1,0 +1,7 @@
+C:\Users\радмир\source\repos\ВПИ4\vp4.4\bin\Debug\vp4.4.exe.config
+C:\Users\радмир\source\repos\ВПИ4\vp4.4\bin\Debug\vp4.4.exe
+C:\Users\радмир\source\repos\ВПИ4\vp4.4\bin\Debug\vp4.4.pdb
+C:\Users\радмир\source\repos\ВПИ4\vp4.4\obj\Debug\vp4.4.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\ВПИ4\vp4.4\obj\Debug\vp4.4.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\ВПИ4\vp4.4\obj\Debug\vp4.4.exe
+C:\Users\радмир\source\repos\ВПИ4\vp4.4\obj\Debug\vp4.4.pdb

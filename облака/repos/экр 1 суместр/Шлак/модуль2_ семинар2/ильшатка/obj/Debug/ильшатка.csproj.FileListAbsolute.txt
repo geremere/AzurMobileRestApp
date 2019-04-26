@@ -1,0 +1,7 @@
+C:\Users\радмир\source\repos\модуль2_ семинар2\ильшатка\obj\Debug\ильшатка.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\модуль2_ семинар2\ильшатка\obj\Debug\ильшатка.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\модуль2_ семинар2\ильшатка\bin\Debug\ильшатка.exe.config
+C:\Users\радмир\source\repos\модуль2_ семинар2\ильшатка\bin\Debug\ильшатка.exe
+C:\Users\радмир\source\repos\модуль2_ семинар2\ильшатка\bin\Debug\ильшатка.pdb
+C:\Users\радмир\source\repos\модуль2_ семинар2\ильшатка\obj\Debug\ильшатка.exe
+C:\Users\радмир\source\repos\модуль2_ семинар2\ильшатка\obj\Debug\ильшатка.pdb

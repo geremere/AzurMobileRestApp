@@ -1,0 +1,10 @@
+C:\Users\радмир\source\repos\KDZPROG\KDZPROG\bin\Debug\KDZPROG.exe.config
+C:\Users\радмир\source\repos\KDZPROG\KDZPROG\bin\Debug\KDZPROG.exe
+C:\Users\радмир\source\repos\KDZPROG\KDZPROG\bin\Debug\KDZPROG.pdb
+C:\Users\радмир\source\repos\KDZPROG\KDZPROG\obj\Debug\KDZPROG.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\KDZPROG\KDZPROG\obj\Debug\KDZPROG.Form1.resources
+C:\Users\радмир\source\repos\KDZPROG\KDZPROG\obj\Debug\KDZPROG.Properties.Resources.resources
+C:\Users\радмир\source\repos\KDZPROG\KDZPROG\obj\Debug\KDZPROG.csproj.GenerateResource.cache
+C:\Users\радмир\source\repos\KDZPROG\KDZPROG\obj\Debug\KDZPROG.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\KDZPROG\KDZPROG\obj\Debug\KDZPROG.exe
+C:\Users\радмир\source\repos\KDZPROG\KDZPROG\obj\Debug\KDZPROG.pdb

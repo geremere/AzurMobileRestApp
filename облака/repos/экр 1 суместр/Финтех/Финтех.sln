@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Финтех", "Финтех\Финтех.csproj", "{A5B14A3B-5764-4FC7-829F-353F64E71E99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2", "2\2.csproj", "{172F6BA2-7F0D-4DD3-9BFE-E5B0AFFA6567}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3", "3\3.csproj", "{EA594B9F-7BD2-4F7B-A0E9-646B95FDFAD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5B14A3B-5764-4FC7-829F-353F64E71E99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5B14A3B-5764-4FC7-829F-353F64E71E99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5B14A3B-5764-4FC7-829F-353F64E71E99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5B14A3B-5764-4FC7-829F-353F64E71E99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{172F6BA2-7F0D-4DD3-9BFE-E5B0AFFA6567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{172F6BA2-7F0D-4DD3-9BFE-E5B0AFFA6567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{172F6BA2-7F0D-4DD3-9BFE-E5B0AFFA6567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{172F6BA2-7F0D-4DD3-9BFE-E5B0AFFA6567}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA594B9F-7BD2-4F7B-A0E9-646B95FDFAD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA594B9F-7BD2-4F7B-A0E9-646B95FDFAD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA594B9F-7BD2-4F7B-A0E9-646B95FDFAD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA594B9F-7BD2-4F7B-A0E9-646B95FDFAD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AE945EA-AF0E-47FC-9C3E-3F8737B2D602}
+	EndGlobalSection
+EndGlobal

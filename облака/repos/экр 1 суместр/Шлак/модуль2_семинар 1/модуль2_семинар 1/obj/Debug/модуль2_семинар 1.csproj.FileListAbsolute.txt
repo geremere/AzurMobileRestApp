@@ -1,0 +1,7 @@
+C:\Users\радмир\source\repos\модуль2_семинар 1\модуль2_семинар 1\bin\Debug\модуль2_семинар 1.exe.config
+C:\Users\радмир\source\repos\модуль2_семинар 1\модуль2_семинар 1\bin\Debug\модуль2_семинар 1.exe
+C:\Users\радмир\source\repos\модуль2_семинар 1\модуль2_семинар 1\bin\Debug\модуль2_семинар 1.pdb
+C:\Users\радмир\source\repos\модуль2_семинар 1\модуль2_семинар 1\obj\Debug\модуль2_семинар 1.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\модуль2_семинар 1\модуль2_семинар 1\obj\Debug\модуль2_семинар 1.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\модуль2_семинар 1\модуль2_семинар 1\obj\Debug\модуль2_семинар 1.exe
+C:\Users\радмир\source\repos\модуль2_семинар 1\модуль2_семинар 1\obj\Debug\модуль2_семинар 1.pdb

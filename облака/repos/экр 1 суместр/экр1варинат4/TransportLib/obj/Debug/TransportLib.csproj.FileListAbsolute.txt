@@ -1,0 +1,6 @@
+C:\Users\радмир\source\repos\экр1варинат4\TransportLib\obj\Debug\TransportLib.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\экр1варинат4\TransportLib\obj\Debug\TransportLib.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\экр1варинат4\TransportLib\bin\Debug\TransportLib.dll
+C:\Users\радмир\source\repos\экр1варинат4\TransportLib\bin\Debug\TransportLib.pdb
+C:\Users\радмир\source\repos\экр1варинат4\TransportLib\obj\Debug\TransportLib.dll
+C:\Users\радмир\source\repos\экр1варинат4\TransportLib\obj\Debug\TransportLib.pdb

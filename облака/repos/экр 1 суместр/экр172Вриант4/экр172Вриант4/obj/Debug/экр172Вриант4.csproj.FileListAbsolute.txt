@@ -1,0 +1,7 @@
+C:\Users\радмир\source\repos\экр172Вриант4\экр172Вриант4\bin\Debug\экр172Вриант4.exe.config
+C:\Users\радмир\source\repos\экр172Вриант4\экр172Вриант4\bin\Debug\экр172Вриант4.exe
+C:\Users\радмир\source\repos\экр172Вриант4\экр172Вриант4\bin\Debug\экр172Вриант4.pdb
+C:\Users\радмир\source\repos\экр172Вриант4\экр172Вриант4\obj\Debug\экр172Вриант4.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\экр172Вриант4\экр172Вриант4\obj\Debug\экр172Вриант4.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\экр172Вриант4\экр172Вриант4\obj\Debug\экр172Вриант4.exe
+C:\Users\радмир\source\repos\экр172Вриант4\экр172Вриант4\obj\Debug\экр172Вриант4.pdb

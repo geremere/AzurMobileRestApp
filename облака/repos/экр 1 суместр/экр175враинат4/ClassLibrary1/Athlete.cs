@@ -1,0 +1,20 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ClassLibrary1
+{
+    public abstract class Athlete
+    {
+        protected string name;
+        protected Athlete(string name)
+        {
+            this.name = name;
+            //this.country = country;
+        }
+
+        public abstract bool IsOnDoping();
+    }
+}

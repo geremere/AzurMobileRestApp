@@ -1,0 +1,13 @@
+C:\Users\радмир\source\repos\побелка1молдавский\побелка1молдавский\obj\Debug\побелка1молдавский.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\побелка1молдавский\побелка1молдавский\obj\Debug\побелка1молдавский.Properties.Resources.resources
+C:\Users\радмир\source\repos\побелка1молдавский\побелка1молдавский\obj\Debug\побелка1молдавский.csproj.GenerateResource.cache
+C:\Users\радмир\source\repos\побелка1молдавский\побелка1молдавский\obj\Debug\побелка1молдавский.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\побелка1молдавский\побелка1молдавский\bin\Debug\побелка1молдавский.exe.config
+C:\Users\радмир\source\repos\побелка1молдавский\побелка1молдавский\bin\Debug\побелка1молдавский.exe
+C:\Users\радмир\source\repos\побелка1молдавский\побелка1молдавский\bin\Debug\побелка1молдавский.pdb
+C:\Users\радмир\source\repos\побелка1молдавский\побелка1молдавский\bin\Debug\ClassLibrary.dll
+C:\Users\радмир\source\repos\побелка1молдавский\побелка1молдавский\bin\Debug\ClassLibrary.pdb
+C:\Users\радмир\source\repos\побелка1молдавский\побелка1молдавский\obj\Debug\побелка1молдавский.Form1.resources
+C:\Users\радмир\source\repos\побелка1молдавский\побелка1молдавский\obj\Debug\побелка1молдавский.csproj.CopyComplete
+C:\Users\радмир\source\repos\побелка1молдавский\побелка1молдавский\obj\Debug\побелка1молдавский.exe
+C:\Users\радмир\source\repos\побелка1молдавский\побелка1молдавский\obj\Debug\побелка1молдавский.pdb

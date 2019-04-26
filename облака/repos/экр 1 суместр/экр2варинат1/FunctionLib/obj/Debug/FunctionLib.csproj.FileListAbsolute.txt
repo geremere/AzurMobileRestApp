@@ -1,0 +1,6 @@
+C:\Users\радмир\source\repos\экр2варинат1\FunctionLib\bin\Debug\FunctionLib.dll
+C:\Users\радмир\source\repos\экр2варинат1\FunctionLib\bin\Debug\FunctionLib.pdb
+C:\Users\радмир\source\repos\экр2варинат1\FunctionLib\obj\Debug\FunctionLib.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\экр2варинат1\FunctionLib\obj\Debug\FunctionLib.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\экр2варинат1\FunctionLib\obj\Debug\FunctionLib.dll
+C:\Users\радмир\source\repos\экр2варинат1\FunctionLib\obj\Debug\FunctionLib.pdb

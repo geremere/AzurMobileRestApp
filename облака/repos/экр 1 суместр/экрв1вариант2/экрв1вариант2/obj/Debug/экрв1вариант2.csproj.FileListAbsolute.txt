@@ -1,0 +1,13 @@
+C:\Users\радмир\source\repos\экрв1вариант2\экрв1вариант2\bin\Debug\экрв1вариант2.exe.config
+C:\Users\радмир\source\repos\экрв1вариант2\экрв1вариант2\bin\Debug\экрв1вариант2.exe
+C:\Users\радмир\source\repos\экрв1вариант2\экрв1вариант2\bin\Debug\экрв1вариант2.pdb
+C:\Users\радмир\source\repos\экрв1вариант2\экрв1вариант2\bin\Debug\PropertyLib.dll
+C:\Users\радмир\source\repos\экрв1вариант2\экрв1вариант2\bin\Debug\PropertyLib.pdb
+C:\Users\радмир\source\repos\экрв1вариант2\экрв1вариант2\obj\Debug\экрв1вариант2.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\экрв1вариант2\экрв1вариант2\obj\Debug\экрв1вариант2.Form1.resources
+C:\Users\радмир\source\repos\экрв1вариант2\экрв1вариант2\obj\Debug\экрв1вариант2.Properties.Resources.resources
+C:\Users\радмир\source\repos\экрв1вариант2\экрв1вариант2\obj\Debug\экрв1вариант2.csproj.GenerateResource.cache
+C:\Users\радмир\source\repos\экрв1вариант2\экрв1вариант2\obj\Debug\экрв1вариант2.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\экрв1вариант2\экрв1вариант2\obj\Debug\экрв1вариант2.csproj.CopyComplete
+C:\Users\радмир\source\repos\экрв1вариант2\экрв1вариант2\obj\Debug\экрв1вариант2.exe
+C:\Users\радмир\source\repos\экрв1вариант2\экрв1вариант2\obj\Debug\экрв1вариант2.pdb

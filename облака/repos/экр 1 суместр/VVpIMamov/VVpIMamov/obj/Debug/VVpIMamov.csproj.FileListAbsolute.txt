@@ -1,0 +1,10 @@
+C:\Users\радмир\source\repos\VVpIMamov\VVpIMamov\bin\Debug\VVpIMamov.exe.config
+C:\Users\радмир\source\repos\VVpIMamov\VVpIMamov\bin\Debug\VVpIMamov.exe
+C:\Users\радмир\source\repos\VVpIMamov\VVpIMamov\bin\Debug\VVpIMamov.pdb
+C:\Users\радмир\source\repos\VVpIMamov\VVpIMamov\bin\Debug\Plane.dll
+C:\Users\радмир\source\repos\VVpIMamov\VVpIMamov\bin\Debug\Plane.pdb
+C:\Users\радмир\source\repos\VVpIMamov\VVpIMamov\obj\Debug\VVpIMamov.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\VVpIMamov\VVpIMamov\obj\Debug\VVpIMamov.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\VVpIMamov\VVpIMamov\obj\Debug\VVpIMamov.csproj.CopyComplete
+C:\Users\радмир\source\repos\VVpIMamov\VVpIMamov\obj\Debug\VVpIMamov.exe
+C:\Users\радмир\source\repos\VVpIMamov\VVpIMamov\obj\Debug\VVpIMamov.pdb

@@ -1,0 +1,13 @@
+C:\Users\радмир\source\repos\!!!ЭкрВ1\!!!ЭкрВ1\bin\Debug\!!!ЭкрВ1.exe.config
+C:\Users\радмир\source\repos\!!!ЭкрВ1\!!!ЭкрВ1\bin\Debug\!!!ЭкрВ1.exe
+C:\Users\радмир\source\repos\!!!ЭкрВ1\!!!ЭкрВ1\bin\Debug\!!!ЭкрВ1.pdb
+C:\Users\радмир\source\repos\!!!ЭкрВ1\!!!ЭкрВ1\bin\Debug\ClassLibrary1.dll
+C:\Users\радмир\source\repos\!!!ЭкрВ1\!!!ЭкрВ1\bin\Debug\ClassLibrary1.pdb
+C:\Users\радмир\source\repos\!!!ЭкрВ1\!!!ЭкрВ1\obj\Debug\!!!ЭкрВ1.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\!!!ЭкрВ1\!!!ЭкрВ1\obj\Debug\___ЭкрВ1.Form1.resources
+C:\Users\радмир\source\repos\!!!ЭкрВ1\!!!ЭкрВ1\obj\Debug\___ЭкрВ1.Properties.Resources.resources
+C:\Users\радмир\source\repos\!!!ЭкрВ1\!!!ЭкрВ1\obj\Debug\!!!ЭкрВ1.csproj.GenerateResource.cache
+C:\Users\радмир\source\repos\!!!ЭкрВ1\!!!ЭкрВ1\obj\Debug\!!!ЭкрВ1.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\!!!ЭкрВ1\!!!ЭкрВ1\obj\Debug\!!!ЭкрВ1.csproj.CopyComplete
+C:\Users\радмир\source\repos\!!!ЭкрВ1\!!!ЭкрВ1\obj\Debug\!!!ЭкрВ1.exe
+C:\Users\радмир\source\repos\!!!ЭкрВ1\!!!ЭкрВ1\obj\Debug\!!!ЭкрВ1.pdb

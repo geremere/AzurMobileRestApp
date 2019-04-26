@@ -1,0 +1,10 @@
+C:\Users\радмир\source\repos\WindowsFormsAppetest1\WindowsFormsAppetest1\bin\Debug\WindowsFormsAppetest1.exe.config
+C:\Users\радмир\source\repos\WindowsFormsAppetest1\WindowsFormsAppetest1\bin\Debug\WindowsFormsAppetest1.exe
+C:\Users\радмир\source\repos\WindowsFormsAppetest1\WindowsFormsAppetest1\bin\Debug\WindowsFormsAppetest1.pdb
+C:\Users\радмир\source\repos\WindowsFormsAppetest1\WindowsFormsAppetest1\obj\Debug\WindowsFormsAppetest1.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\WindowsFormsAppetest1\WindowsFormsAppetest1\obj\Debug\WindowsFormsAppetest1.Form1.resources
+C:\Users\радмир\source\repos\WindowsFormsAppetest1\WindowsFormsAppetest1\obj\Debug\WindowsFormsAppetest1.Properties.Resources.resources
+C:\Users\радмир\source\repos\WindowsFormsAppetest1\WindowsFormsAppetest1\obj\Debug\WindowsFormsAppetest1.csproj.GenerateResource.cache
+C:\Users\радмир\source\repos\WindowsFormsAppetest1\WindowsFormsAppetest1\obj\Debug\WindowsFormsAppetest1.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\WindowsFormsAppetest1\WindowsFormsAppetest1\obj\Debug\WindowsFormsAppetest1.exe
+C:\Users\радмир\source\repos\WindowsFormsAppetest1\WindowsFormsAppetest1\obj\Debug\WindowsFormsAppetest1.pdb

@@ -1,0 +1,7 @@
+C:\Users\радмир\source\repos\KDZVVP_2\KDZVVP_2\bin\Debug\KDZVVP_2.exe.config
+C:\Users\радмир\source\repos\KDZVVP_2\KDZVVP_2\bin\Debug\KDZVVP_2.exe
+C:\Users\радмир\source\repos\KDZVVP_2\KDZVVP_2\bin\Debug\KDZVVP_2.pdb
+C:\Users\радмир\source\repos\KDZVVP_2\KDZVVP_2\obj\Debug\KDZVVP_2.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\KDZVVP_2\KDZVVP_2\obj\Debug\KDZVVP_2.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\KDZVVP_2\KDZVVP_2\obj\Debug\KDZVVP_2.exe
+C:\Users\радмир\source\repos\KDZVVP_2\KDZVVP_2\obj\Debug\KDZVVP_2.pdb

@@ -1,0 +1,7 @@
+C:\Users\радмир\source\repos\hw\hw\obj\Debug\hw.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\hw\hw\obj\Debug\hw.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\hw\hw\bin\Debug\hw.exe.config
+C:\Users\радмир\source\repos\hw\hw\bin\Debug\hw.exe
+C:\Users\радмир\source\repos\hw\hw\bin\Debug\hw.pdb
+C:\Users\радмир\source\repos\hw\hw\obj\Debug\hw.exe
+C:\Users\радмир\source\repos\hw\hw\obj\Debug\hw.pdb

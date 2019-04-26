@@ -1,0 +1,10 @@
+C:\Users\радмир\source\repos\экрваринат1\экэрваринат1\bin\Debug\экэрваринат1.exe.config
+C:\Users\радмир\source\repos\экрваринат1\экэрваринат1\bin\Debug\экэрваринат1.exe
+C:\Users\радмир\source\repos\экрваринат1\экэрваринат1\bin\Debug\экэрваринат1.pdb
+C:\Users\радмир\source\repos\экрваринат1\экэрваринат1\bin\Debug\ClassLibrary1.dll
+C:\Users\радмир\source\repos\экрваринат1\экэрваринат1\bin\Debug\ClassLibrary1.pdb
+C:\Users\радмир\source\repos\экрваринат1\экэрваринат1\obj\Debug\экэрваринат1.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\экрваринат1\экэрваринат1\obj\Debug\экэрваринат1.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\экрваринат1\экэрваринат1\obj\Debug\экэрваринат1.csproj.CopyComplete
+C:\Users\радмир\source\repos\экрваринат1\экэрваринат1\obj\Debug\экэрваринат1.exe
+C:\Users\радмир\source\repos\экрваринат1\экэрваринат1\obj\Debug\экэрваринат1.pdb

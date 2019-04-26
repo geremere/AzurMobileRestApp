@@ -1,0 +1,7 @@
+C:\Users\радмир\source\repos\Controlone\Controlone\bin\Debug\Controlone.exe.config
+C:\Users\радмир\source\repos\Controlone\Controlone\bin\Debug\Controlone.exe
+C:\Users\радмир\source\repos\Controlone\Controlone\bin\Debug\Controlone.pdb
+C:\Users\радмир\source\repos\Controlone\Controlone\obj\Debug\Controlone.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\Controlone\Controlone\obj\Debug\Controlone.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\Controlone\Controlone\obj\Debug\Controlone.exe
+C:\Users\радмир\source\repos\Controlone\Controlone\obj\Debug\Controlone.pdb

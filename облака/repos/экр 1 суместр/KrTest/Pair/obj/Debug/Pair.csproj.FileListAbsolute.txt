@@ -1,0 +1,6 @@
+C:\Users\радмир\source\repos\KrTest\Pair\bin\Debug\Pair.dll
+C:\Users\радмир\source\repos\KrTest\Pair\bin\Debug\Pair.pdb
+C:\Users\радмир\source\repos\KrTest\Pair\obj\Debug\Pair.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\KrTest\Pair\obj\Debug\Pair.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\KrTest\Pair\obj\Debug\Pair.dll
+C:\Users\радмир\source\repos\KrTest\Pair\obj\Debug\Pair.pdb

@@ -1,0 +1,6 @@
+C:\Users\радмир\source\repos\elka\elka\obj\Debug\elka.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\elka\elka\bin\Debug\elka.exe.config
+C:\Users\радмир\source\repos\elka\elka\bin\Debug\elka.exe
+C:\Users\радмир\source\repos\elka\elka\bin\Debug\elka.pdb
+C:\Users\радмир\source\repos\elka\elka\obj\Debug\elka.exe
+C:\Users\радмир\source\repos\elka\elka\obj\Debug\elka.pdb

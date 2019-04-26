@@ -1,0 +1,7 @@
+C:\Users\радмир\source\repos\SMRMOdul2_ImamovRadmir183\SMRMOdul2_ImamovRadmir183\obj\Debug\SMRMOdul2_ImamovRadmir183.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\SMRMOdul2_ImamovRadmir183\SMRMOdul2_ImamovRadmir183\obj\Debug\SMRMOdul2_ImamovRadmir183.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\SMRMOdul2_ImamovRadmir183\SMRMOdul2_ImamovRadmir183\bin\Debug\SMRMOdul2_ImamovRadmir183.exe.config
+C:\Users\радмир\source\repos\SMRMOdul2_ImamovRadmir183\SMRMOdul2_ImamovRadmir183\bin\Debug\SMRMOdul2_ImamovRadmir183.exe
+C:\Users\радмир\source\repos\SMRMOdul2_ImamovRadmir183\SMRMOdul2_ImamovRadmir183\bin\Debug\SMRMOdul2_ImamovRadmir183.pdb
+C:\Users\радмир\source\repos\SMRMOdul2_ImamovRadmir183\SMRMOdul2_ImamovRadmir183\obj\Debug\SMRMOdul2_ImamovRadmir183.exe
+C:\Users\радмир\source\repos\SMRMOdul2_ImamovRadmir183\SMRMOdul2_ImamovRadmir183\obj\Debug\SMRMOdul2_ImamovRadmir183.pdb

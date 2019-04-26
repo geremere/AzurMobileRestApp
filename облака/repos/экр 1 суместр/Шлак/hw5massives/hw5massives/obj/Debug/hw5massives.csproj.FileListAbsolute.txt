@@ -1,0 +1,7 @@
+C:\Users\радмир\source\repos\hw5massives\hw5massives\bin\Debug\hw5massives.exe.config
+C:\Users\радмир\source\repos\hw5massives\hw5massives\bin\Debug\hw5massives.exe
+C:\Users\радмир\source\repos\hw5massives\hw5massives\bin\Debug\hw5massives.pdb
+C:\Users\радмир\source\repos\hw5massives\hw5massives\obj\Debug\hw5massives.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\hw5massives\hw5massives\obj\Debug\hw5massives.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\hw5massives\hw5massives\obj\Debug\hw5massives.exe
+C:\Users\радмир\source\repos\hw5massives\hw5massives\obj\Debug\hw5massives.pdb

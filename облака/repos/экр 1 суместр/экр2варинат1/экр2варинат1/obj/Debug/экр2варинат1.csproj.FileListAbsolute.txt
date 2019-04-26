@@ -1,0 +1,13 @@
+C:\Users\радмир\source\repos\экр2варинат1\экр2варинат1\bin\Debug\экр2варинат1.exe.config
+C:\Users\радмир\source\repos\экр2варинат1\экр2варинат1\bin\Debug\экр2варинат1.exe
+C:\Users\радмир\source\repos\экр2варинат1\экр2варинат1\bin\Debug\экр2варинат1.pdb
+C:\Users\радмир\source\repos\экр2варинат1\экр2варинат1\bin\Debug\FunctionLib.dll
+C:\Users\радмир\source\repos\экр2варинат1\экр2варинат1\bin\Debug\FunctionLib.pdb
+C:\Users\радмир\source\repos\экр2варинат1\экр2варинат1\obj\Debug\экр2варинат1.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\экр2варинат1\экр2варинат1\obj\Debug\экр2варинат1.Form1.resources
+C:\Users\радмир\source\repos\экр2варинат1\экр2варинат1\obj\Debug\экр2варинат1.Properties.Resources.resources
+C:\Users\радмир\source\repos\экр2варинат1\экр2варинат1\obj\Debug\экр2варинат1.csproj.GenerateResource.cache
+C:\Users\радмир\source\repos\экр2варинат1\экр2варинат1\obj\Debug\экр2варинат1.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\экр2варинат1\экр2варинат1\obj\Debug\экр2варинат1.csproj.CopyComplete
+C:\Users\радмир\source\repos\экр2варинат1\экр2варинат1\obj\Debug\экр2варинат1.exe
+C:\Users\радмир\source\repos\экр2варинат1\экр2варинат1\obj\Debug\экр2варинат1.pdb

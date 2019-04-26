@@ -1,0 +1,7 @@
+C:\Users\радмир\source\repos\модуль2_семинар 1\hw1\bin\Debug\hw1.exe.config
+C:\Users\радмир\source\repos\модуль2_семинар 1\hw1\bin\Debug\hw1.exe
+C:\Users\радмир\source\repos\модуль2_семинар 1\hw1\bin\Debug\hw1.pdb
+C:\Users\радмир\source\repos\модуль2_семинар 1\hw1\obj\Debug\hw1.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\модуль2_семинар 1\hw1\obj\Debug\hw1.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\модуль2_семинар 1\hw1\obj\Debug\hw1.exe
+C:\Users\радмир\source\repos\модуль2_семинар 1\hw1\obj\Debug\hw1.pdb

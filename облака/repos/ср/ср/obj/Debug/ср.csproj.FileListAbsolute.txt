@@ -1,0 +1,7 @@
+C:\Users\радмир\source\repos\ср\ср\bin\Debug\ср.exe.config
+C:\Users\радмир\source\repos\ср\ср\bin\Debug\ср.exe
+C:\Users\радмир\source\repos\ср\ср\bin\Debug\ср.pdb
+C:\Users\радмир\source\repos\ср\ср\obj\Debug\ср.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\ср\ср\obj\Debug\ср.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\ср\ср\obj\Debug\ср.exe
+C:\Users\радмир\source\repos\ср\ср\obj\Debug\ср.pdb

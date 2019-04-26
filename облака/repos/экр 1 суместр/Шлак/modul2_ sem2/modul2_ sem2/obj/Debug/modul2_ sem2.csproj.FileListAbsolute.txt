@@ -1,0 +1,7 @@
+C:\Users\радмир\source\repos\modul2_ sem2\modul2_ sem2\bin\Debug\modul2_ sem2.exe.config
+C:\Users\радмир\source\repos\modul2_ sem2\modul2_ sem2\bin\Debug\modul2_ sem2.exe
+C:\Users\радмир\source\repos\modul2_ sem2\modul2_ sem2\bin\Debug\modul2_ sem2.pdb
+C:\Users\радмир\source\repos\modul2_ sem2\modul2_ sem2\obj\Debug\modul2_ sem2.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\modul2_ sem2\modul2_ sem2\obj\Debug\modul2_ sem2.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\modul2_ sem2\modul2_ sem2\obj\Debug\modul2_ sem2.exe
+C:\Users\радмир\source\repos\modul2_ sem2\modul2_ sem2\obj\Debug\modul2_ sem2.pdb

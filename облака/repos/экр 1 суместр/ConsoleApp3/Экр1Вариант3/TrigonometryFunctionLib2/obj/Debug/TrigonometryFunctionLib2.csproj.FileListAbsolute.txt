@@ -1,0 +1,6 @@
+C:\Users\радмир\source\repos\Экр1Вариант3\TrigonometryFunctionLib2\bin\Debug\TrigonometryFunctionLib2.dll
+C:\Users\радмир\source\repos\Экр1Вариант3\TrigonometryFunctionLib2\bin\Debug\TrigonometryFunctionLib2.pdb
+C:\Users\радмир\source\repos\Экр1Вариант3\TrigonometryFunctionLib2\obj\Debug\TrigonometryFunctionLib2.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\Экр1Вариант3\TrigonometryFunctionLib2\obj\Debug\TrigonometryFunctionLib2.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\Экр1Вариант3\TrigonometryFunctionLib2\obj\Debug\TrigonometryFunctionLib2.dll
+C:\Users\радмир\source\repos\Экр1Вариант3\TrigonometryFunctionLib2\obj\Debug\TrigonometryFunctionLib2.pdb

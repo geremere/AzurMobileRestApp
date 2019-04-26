@@ -1,0 +1,6 @@
+C:\Users\радмир\source\repos\экрв1вариант2\PropertyLib\bin\Debug\PropertyLib.dll
+C:\Users\радмир\source\repos\экрв1вариант2\PropertyLib\bin\Debug\PropertyLib.pdb
+C:\Users\радмир\source\repos\экрв1вариант2\PropertyLib\obj\Debug\PropertyLib.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\экрв1вариант2\PropertyLib\obj\Debug\PropertyLib.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\экрв1вариант2\PropertyLib\obj\Debug\PropertyLib.dll
+C:\Users\радмир\source\repos\экрв1вариант2\PropertyLib\obj\Debug\PropertyLib.pdb

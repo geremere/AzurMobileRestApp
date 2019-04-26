@@ -1,0 +1,13 @@
+C:\Users\радмир\source\repos\Экр1Вариант3\Экр1Вариант3\bin\Debug\Экр1Вариант3.exe.config
+C:\Users\радмир\source\repos\Экр1Вариант3\Экр1Вариант3\bin\Debug\Экр1Вариант3.exe
+C:\Users\радмир\source\repos\Экр1Вариант3\Экр1Вариант3\bin\Debug\Экр1Вариант3.pdb
+C:\Users\радмир\source\repos\Экр1Вариант3\Экр1Вариант3\bin\Debug\TrigonometryFunctionLib2.dll
+C:\Users\радмир\source\repos\Экр1Вариант3\Экр1Вариант3\bin\Debug\TrigonometryFunctionLib2.pdb
+C:\Users\радмир\source\repos\Экр1Вариант3\Экр1Вариант3\obj\Debug\Экр1Вариант3.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\Экр1Вариант3\Экр1Вариант3\obj\Debug\Экр1Вариант3.Form1.resources
+C:\Users\радмир\source\repos\Экр1Вариант3\Экр1Вариант3\obj\Debug\Экр1Вариант3.Properties.Resources.resources
+C:\Users\радмир\source\repos\Экр1Вариант3\Экр1Вариант3\obj\Debug\Экр1Вариант3.csproj.GenerateResource.cache
+C:\Users\радмир\source\repos\Экр1Вариант3\Экр1Вариант3\obj\Debug\Экр1Вариант3.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\Экр1Вариант3\Экр1Вариант3\obj\Debug\Экр1Вариант3.csproj.CopyComplete
+C:\Users\радмир\source\repos\Экр1Вариант3\Экр1Вариант3\obj\Debug\Экр1Вариант3.exe
+C:\Users\радмир\source\repos\Экр1Вариант3\Экр1Вариант3\obj\Debug\Экр1Вариант3.pdb

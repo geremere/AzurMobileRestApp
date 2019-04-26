@@ -1,0 +1,7 @@
+C:\Users\радмир\source\repos\4.6\C++\bin\Debug\C++.exe.config
+C:\Users\радмир\source\repos\4.6\C++\bin\Debug\C++.exe
+C:\Users\радмир\source\repos\4.6\C++\bin\Debug\C++.pdb
+C:\Users\радмир\source\repos\4.6\C++\obj\Debug\C++.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\4.6\C++\obj\Debug\C++.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\4.6\C++\obj\Debug\C++.exe
+C:\Users\радмир\source\repos\4.6\C++\obj\Debug\C++.pdb

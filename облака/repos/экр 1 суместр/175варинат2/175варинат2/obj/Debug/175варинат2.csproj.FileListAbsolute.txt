@@ -1,0 +1,10 @@
+C:\Users\радмир\source\repos\175варинат2\175варинат2\bin\Debug\175варинат2.exe.config
+C:\Users\радмир\source\repos\175варинат2\175варинат2\bin\Debug\175варинат2.exe
+C:\Users\радмир\source\repos\175варинат2\175варинат2\bin\Debug\175варинат2.pdb
+C:\Users\радмир\source\repos\175варинат2\175варинат2\bin\Debug\ClassLibrary1.dll
+C:\Users\радмир\source\repos\175варинат2\175варинат2\bin\Debug\ClassLibrary1.pdb
+C:\Users\радмир\source\repos\175варинат2\175варинат2\obj\Debug\175варинат2.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\175варинат2\175варинат2\obj\Debug\175варинат2.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\175варинат2\175варинат2\obj\Debug\175варинат2.csproj.CopyComplete
+C:\Users\радмир\source\repos\175варинат2\175варинат2\obj\Debug\175варинат2.exe
+C:\Users\радмир\source\repos\175варинат2\175варинат2\obj\Debug\175варинат2.pdb

@@ -1,0 +1,2 @@
+C:\Users\радмир\source\repos\ДЗ\ДЗ\obj\Debug\ДЗ.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\ДЗ\ДЗ\obj\Debug\ДЗ.csproj.CoreCompileInputs.cache

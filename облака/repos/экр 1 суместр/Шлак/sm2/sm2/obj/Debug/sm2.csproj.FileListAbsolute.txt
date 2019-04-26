@@ -1,0 +1,7 @@
+C:\Users\радмир\source\repos\sm2\sm2\bin\Debug\sm2.exe.config
+C:\Users\радмир\source\repos\sm2\sm2\bin\Debug\sm2.exe
+C:\Users\радмир\source\repos\sm2\sm2\bin\Debug\sm2.pdb
+C:\Users\радмир\source\repos\sm2\sm2\obj\Debug\sm2.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\sm2\sm2\obj\Debug\sm2.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\sm2\sm2\obj\Debug\sm2.exe
+C:\Users\радмир\source\repos\sm2\sm2\obj\Debug\sm2.pdb

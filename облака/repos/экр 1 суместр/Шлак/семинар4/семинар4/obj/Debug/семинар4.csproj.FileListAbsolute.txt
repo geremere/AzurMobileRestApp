@@ -1,0 +1,10 @@
+C:\Users\радмир\source\repos\семинар4\семинар4\bin\Debug\семинар4.exe.config
+C:\Users\радмир\source\repos\семинар4\семинар4\bin\Debug\семинар4.exe
+C:\Users\радмир\source\repos\семинар4\семинар4\bin\Debug\семинар4.pdb
+C:\Users\радмир\source\repos\семинар4\семинар4\bin\Debug\Figures.dll
+C:\Users\радмир\source\repos\семинар4\семинар4\bin\Debug\Figures.pdb
+C:\Users\радмир\source\repos\семинар4\семинар4\obj\Debug\семинар4.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\семинар4\семинар4\obj\Debug\семинар4.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\семинар4\семинар4\obj\Debug\семинар4.csproj.CopyComplete
+C:\Users\радмир\source\repos\семинар4\семинар4\obj\Debug\семинар4.exe
+C:\Users\радмир\source\repos\семинар4\семинар4\obj\Debug\семинар4.pdb

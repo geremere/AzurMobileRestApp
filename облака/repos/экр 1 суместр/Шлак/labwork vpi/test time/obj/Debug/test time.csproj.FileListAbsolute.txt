@@ -1,0 +1,7 @@
+C:\Users\радмир\source\repos\labwork vpi\test time\bin\Debug\test time.exe.config
+C:\Users\радмир\source\repos\labwork vpi\test time\bin\Debug\test time.exe
+C:\Users\радмир\source\repos\labwork vpi\test time\bin\Debug\test time.pdb
+C:\Users\радмир\source\repos\labwork vpi\test time\obj\Debug\test time.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\labwork vpi\test time\obj\Debug\test time.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\labwork vpi\test time\obj\Debug\test time.exe
+C:\Users\радмир\source\repos\labwork vpi\test time\obj\Debug\test time.pdb
